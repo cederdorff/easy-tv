@@ -9,7 +9,7 @@
       "prisPrMd": "99",
       "mindstepris": "1.092",
       "bredbaand": "Tilvalg muligt",
-      "kanaler": ["dr1", "dr2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang"]
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang"]
     }, {
       "udbyder": "Waoo!",
       "id": "waoolilletvpakke",
@@ -18,7 +18,7 @@
       "prisPrMd": "129",
       "mindstepris": "1.272",
       "bredbaand": "Krav",
-      "kanaler": ["dr1", "DR2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang", "NRK1 HD", "RTL"]
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang", "NRK1 HD", "RTL"]
     }, {
       "udbyder": "Fullrate",
       "id": "fullratepluspakke",

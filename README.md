@@ -4,6 +4,8 @@
 
 Easy TV er en lille prototype på en sammenligningstjeneste for danske tv-pakker. Du vælger dit område og op til fem kanaler, du ikke vil undvære – og så viser siden kun de pakker, der indeholder dem alle.
 
+![Easy TV – forsiden med område, kanalvælger og tv-pakker](docs/screenshot.png)
+
 Projektet er mit **1. semesterprojekt på PBA i Webudvikling** fra 2013 og ligger her som et stykke historik. Koden er bevaret, som den blev afleveret (med let oprydning), så den afspejler, hvad jeg kunne dengang – ikke hvordan jeg ville bygge den i dag.
 
 ## Funktioner
@@ -81,9 +83,7 @@ Det er et semesterprojekt, og nogle ting nåede aldrig at blive færdige:
 - **Området bruges ikke** til at filtrere pakkerne – det vises kun i søgeresultatet.
 - **Rækkerne i pakketabellen** kan foldes ud, men indeholder kun pladsholderen "Mere info".
 - **Footer-links** (Om Easy TV, Hjælp, Kontakt) går ingen steder hen.
-- **Kanalmatchning** sker på kanalnavn, men nogle pakker refererer til `dr1`/`dr2` med småt, så DR1 og DR2 giver ikke altid det forventede resultat.
-- **Udbydernavn** læses fra `navn` i koden, mens JSON-filen bruger `udbyder`, så logoernes `alt`-tekst er tom.
-- Kanalvælgeren viser højst 20 kanaler pr. kolonne – resten kan kun findes via søgefeltet.
+- **Kanalvælgeren** viser højst 20 kanaler pr. kolonne – der er 21 danske kanaler, så den sidste kan kun findes via søgefeltet.
 
 ## Forfatter
 

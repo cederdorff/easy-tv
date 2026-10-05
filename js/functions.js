@@ -77,7 +77,7 @@ function loadPackages() {
   $.getJSON("json/pakker.json", function (data) {
     $.each(data.pakker, function (i, value) {
       package = {
-        navn: value.navn,
+        navn: value.udbyder,
         id: value.id,
         icon: value.icon,
         pakkenavn: value.pakkenavn,
