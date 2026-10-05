@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="da">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="author" content="Rasmus Cederdorff">
+  <link rel="shortcut icon" href="img/favicon.ico">
+
+  <title>Easy TV - Simple Search</title>
+
+  <!-- Bootstrap CSS -->
+  <link href="css/bootstrap.css" rel="stylesheet">
+  <!-- Custom styles for Easy TV -->
+  <link href="css/custom.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <!-- Wrap hele siden -->
+  <div id="wrap">
+    <!-- Page content -->
+    <div class="container">
+      <a href="index.html">
+        <img id="headerLogo" class="img-responsive center-block" src="img/easytvlogo.png" alt="Easy TV logo">
+      </a>
+
+    </div>
+    <div class="bg1">
+      <div class="container">
+        <div class="jumbotron firstRowHeight">
+          <div class="row">
+            <div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+
+              <h3>Område</h3>
+              <div class="ui-widget">
+                <input id="city" class="form-control area-input" placeholder="Hvor bor du?" autocomplete="off">
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="jumbotron" id="kanaler">
+          <h3>Kanaler</h3>
+          <div class="ui-widget">
+            <div id="channelSearch" class="pull-right hidden-xs">
+              <span class="glyphicon glyphicon-search"></span>
+              <input id="channelSearchInput" class="form-control" placeholder="Søg efter kanal">
+            </div>
+          </div>
+          <p>Vælg de kanaler du ønsker i din tv-pakke</p>
+          <div class="row">
+
+            <div id="danskeKanaler" class="col-sm-6">
+              <h5>Danske kanaler</h5>
+              <div id="danskeKanalerBtns"></div>
+            </div>
+
+            <div id="udenlandskeKanaler" class="col-sm-6">
+              <h5>Udenlandske kanaler</h5>
+              <div id="udenlandskeKanalerBtns"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div id="tableJumbotron" class="jumbotron">
+          <h3>TV-pakker</h3>
+          <small>Valgt område:</small>
+          <button type="button" class="btn btn-default btn-xs" id="selectedCityBtn" disabled="disabled">
+            <b id="selectedCity">Intet valgt</b>&nbsp;
+            <span class="glyphicon glyphicon-remove"></span>
+          </button>
+
+          <div id="selectedChannelsBtns">
+            <small>Valgte kanaler:</small>
+            <button id="intetValgtBtn" type="button" class="btn btn-default btn-xs" disabled="disabled">
+              <b>Ingen kanaler valgt</b>&nbsp;
+              <span class="glyphicon glyphicon-remove"></span>
+            </button>
+          </div>
+          <table id="tvpakketable" class="table table-hover">
+            <thead>
+              <tr>
+                <th>Udbyder</th>
+                <th class="hidden-xs">Pakke</th>
+                <th class="hidden-xs">Kanaler</th>
+                <th class="hidden-xs">Bredbånd</th>
+                <th>Pris pr. md.</th>
+                <th class="hidden-xxs">Mindstepris &nbsp;
+                  <span class="glyphicon glyphicon-chevron-up"></span>
+                </th>
+              </tr>
+            </thead>
+            <tbody id="tvpakketablebody">
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="container">
+      <div class="btn-group btn-group-xs pull-right">
+        <button type="button" class="btn btn-link">Om Easy TV</button>
+        <button type="button" class="btn btn-link">Hjælp</button>
+        <button type="button" class="btn btn-link">Kontakt</button>
+
+      </div>
+      <h6>&copy; Easy TV 2013</h6>
+    </div>
+  </footer>
+
+  <!-- Placed at the end of the document so the pages load faster -->
+  <!-- jquery library-->
+  <script src="js/jquery.js"></script>
+  <!-- bootstrap library-->
+  <script src="js/bootstrap.js"></script>
+  <!-- jquery ui library -->
+  <script src="js/jquery-ui-1.10.3.js"></script>
+  <!-- bootstrap growl -->
+  <script src="js/jquery.bootstrap-growl.min.js"></script>
+  <!-- run functions -->
+  <script src="js/functions.js"></script>
+
+</body>
+
+</html>

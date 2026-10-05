@@ -1,0 +1,69 @@
+{
+  "pakker": [
+
+    {
+      "udbyder": "Fullrate",
+      "id": "fullratebasispakke",
+      "icon": "img/fullrate.png",
+      "pakkenavn": "Basis Pakke",
+      "prisPrMd": "99",
+      "mindstepris": "1.092",
+      "bredbaand": "Tilvalg muligt",
+      "kanaler": ["dr1", "dr2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang"]
+    }, {
+      "udbyder": "Waoo!",
+      "id": "waoolilletvpakke",
+      "icon": "img/waoo.png",
+      "pakkenavn": "Lille TV Pakke",
+      "prisPrMd": "129",
+      "mindstepris": "1.272",
+      "bredbaand": "Krav",
+      "kanaler": ["dr1", "DR2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang", "NRK1 HD", "RTL"]
+    }, {
+      "udbyder": "Fullrate",
+      "id": "fullratepluspakke",
+      "icon": "img/fullrate.png",
+      "pakkenavn": "Plus Pakke",
+      "prisPrMd": "199",
+      "mindstepris": "1.692",
+      "bredbaand": "Tilvalg muligt",
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "DR3", "DR Ultra", "DR Ramasjang", "TV3", "TV2 Zulu", "TV2 Charlie", "TV2 News", "TV3+", "TV3 Puls", "Eurosport"]
+    }, {
+      "udbyder": "YouSee",
+      "id": "youseegrundpakke",
+      "icon": "img/yousee.jpg",
+      "pakkenavn": "Grundpakken",
+      "prisPrMd": "209",
+      "mindstepris": "1.891",
+      "bredbaand": "Tilvalg muligt",
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "TV3", "Kanal 5", "DR3", "DR Ultra", "DR Ramasjang"]
+    }, {
+      "udbyder": "YouSee",
+      "id": "youseemellempakke",
+      "icon": "img/yousee.jpg",
+      "pakkenavn": "Mellempakken",
+      "prisPrMd": "359",
+      "mindstepris": "2.534",
+      "bredbaand": "Tilvalg muligt",
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "TV3", "Kanal 5", "DR3", "DR Ultra", "DR Ramasjang", "TV2 Zulu", "TV2 Charlie", "TV2 News", "TV3+", "Kanal 4", "6'eren", "Canal 9", "DR3"]
+    }, {
+      "udbyder": "Waoo!",
+      "id": "waoostortvpakke",
+      "icon": "img/waoo.png",
+      "pakkenavn": "Stor TV Pakke",
+      "prisPrMd": "379",
+      "mindstepris": "2.772",
+      "bredbaand": "Krav",
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "TV3", "Kanal 5", "DR3", "DR Ultra", "DR Ramasjang", "TV2 Zulu", "TV2 Charlie", "TV2 News", "TV3+", "Kanal 4", "6'eren", "Canal 9", "DR3", "TV3 Puls", "TV3 SPORT 1", "TV3 SPORT 2", "CANAL8 Sport", "Canal 9", "TLC", "Kanal Sport HD", "Discovery Channel", "BBC Entertainment", "MTV", "Eurosport", "CNN", "Cartoon Network", "Disney Channel", "Animal Planet"]
+    }, {
+      "udbyder": "YouSee",
+      "id": "youseefuldpakke",
+      "icon": "img/yousee.jpg",
+      "pakkenavn": "Fuldpakken",
+      "prisPrMd": "459",
+      "mindstepris": "3.433",
+      "bredbaand": "Tilvalg muligt",
+      "kanaler": ["DR1", "DR2", "DR K", "TV2", "TV3", "Kanal 5", "DR3", "DR Ultra", "DR Ramasjang", "TV2 Zulu", "TV2 Charlie", "TV2 News", "TV3+", "Kanal 4", "6'eren", "Canal 9", "DR3", "TV3 Puls", "TV3 SPORT 1", "TV3 SPORT 2", "CANAL8 Sport", "Canal 9", "TLC", "Kanal Sport HD", "Discovery Channel", "BBC Entertainment", "MTV", "Eurosport", "CNN", "Cartoon Network", "Disney Channel", "Animal Planet", "ZDF", "NRK1 HD", "RTL", "VH1"]
+    }
+]
+}

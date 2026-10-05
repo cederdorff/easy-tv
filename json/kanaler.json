@@ -1,0 +1,332 @@
+{
+    "kanaler": [
+        {
+            "navn": "DR1",
+            "id": "dr1",
+            "icon": "img/dr1.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "På DR1 finder du en bred vifte af programmer – fra underholdningsshows og hus-og-have-programmer til aktuelle dokumentarprogrammer og prisbelønnede serier som Rejseholdet, Forbrydelsen og Borgen. Der vises fantastiske børneproduktioner, sport, nyhedsudsendelser (TV-avisen!) og film."
+        },
+        {
+            "navn": "DR2",
+            "id": "dr2",
+            "icon": "img/dr2.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "DR2 sender 24 timer i døgnet og har nyhedsopdatering hver time med flagskibet DR2 Morgen. Kanalen bringer aktualitet, perspektiv, de væsentligste dagsordener i ind- og udland, tema-aftener, gastronomi og satire."
+        },
+        {
+            "navn": "DR K",
+            "id": "drk",
+            "icon": "img/drk.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "DR K er kulturkanalen, der beriger sine seere med oplevelser og viden. DR K giver danskerne indsigt og perspektiv med magasiner, filmperler, historiske programmer og musik."
+        },
+        {
+            "navn": "DR3",
+            "id": "dr3",
+            "icon": "img/dr3.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "DR3 byder seere med ungt sind velkommen inden for til et programtilbud med fokus på videnskab, dokumentar, humor, sport, fiktion og musik. Det er en tv-kanal til alle, der ikke kan få nok af nysgerrigt, eksperimenterende og underholdende tv."
+        },
+        {
+            "navn": "DR Ultra",
+            "id": "drultra",
+            "icon": "img/drultra.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "DR Ultra er en børnekanal der henvender sig til de 7-12 årige. DR Ultra tager børnenes glæder, sorger og drømme seriøst, både i dokumentariske formater og i fiktion."
+        },
+        {
+            "navn": "DR Ramasjang",
+            "id": "drramasjang",
+            "icon": "img/drramasjang.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "DR Ramasjang er en børnekanal for børn i alderen 3 - 10 år. Her kan børnene møde alle de kendte DR-figurer og blandt andet se Live fra Ramasjang og Ramasjangskolen og populære tegnefilm som Braceface. Kanalen sender fra 06.00 til 21.00."
+        },
+        {
+            "navn": "TV2",
+            "id": "tv2",
+            "icon": "img/tv2.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV 2 har en bred programflade. Go’ morgen Danmark opdaterer dig på begivenheder i ind- og udland. Kanalen har sendeflader for de mindste op til de større børn, faste nyhedsindslag med Vejret og Sporten, samfundsrelaterede programmer som Station 2 og Razzia – SKAT rykker ud, drama- og krimiserier og populære film. TV 2 sender fra de største sportsbegivenheder, hvor danskere er med fremme. TV 2 har populær underholdning som Vild med dans, Voice – Danmarks største stemme og Live fra Bremen. "
+        },
+        {
+            "navn": "TV2 Zulu",
+            "id": "tv2zulu",
+            "icon": "img/tv2zulu.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV 2 Zulu er for dig mellem 20 og 50! Kanalen giver dig gode amerikanske og britiske serier fra drama- spændings- og komediegenren, bl.a. Venner, X-Files, Californication og Kongen af Queens. Zulu’s varemærke er også comedy, bl.a. ZHit-paraden og Brian Mørk Show. TV 2 Zulu står som garant for nyskabende tv som Zulufonen, Argh! Det gjorde jeg bare ikk’ og Slemme Slemme Piger. Du får også gode film på TV 2 Zulu. "
+        },
+        {
+            "navn": "TV2 Charlie",
+            "id": "tv2charlie",
+            "icon": "img/tv2charlie.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV 2 Charlie er tv for det modne seerpublikum. Kanalen har fokus på underholdning og sender koncerter med populærmusik, quizzer, talkshow og revy, bl.a. Top Charlie, Spørg Charlie og Stygge Ulf, med folkekære værter som Keld Heick og Michael Meyerheim. Programfladen er krydret med populære drama- og krimiserier, der byder på gensyn med Folk og Fæ, Små og store synder, New York Blues og Kommissær Rex. Kanalen byder også på gensyn med popu-lære danske film. Kanalen sender fra morgen til hen over midnat."
+        },
+        {
+            "navn": "TV2 News",
+            "id": "tv2news",
+            "icon": "img/tv2news.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV 2 News sender nyheder og reportager fra ind- og udland døgnet rundt hele ugen. Kanalen har egne aktuelle magasiner, der dækker finansverdenen, de politiske arenaer, kulturscenen og sportsverdenen."
+        },
+        {
+            "navn": "TV3",
+            "id": "tv3",
+            "icon": "img/tv3.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV3 er en yderst populær kanal, og kan nu også nydes som i HD. Kanalen fokuserer på alle typer af underholdning og reality, blandt andet Amalies verden, Fristet - Hvor langt vil du gå!, Luksusfælden, 6 på date og en klassiker som Paradise Hotel. Desuden vises krimiserier som NCIS og Bones og masser af spændingsfilm."
+        },
+        {
+            "navn": "TV3+",
+            "id": "tv3plus",
+            "icon": "img/tv3plus.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV3+ er TV3’s søsterkanal. Her vises komedieserier (Simpsons, The Office, How I Met Your Mother), sport (Champions League-fodbold, engelsk Premier League-fodbold, Superliga-fodbold, Formel 1 og boksning) og amerikanske film."
+        },
+        {
+            "navn": "TV3 Puls",
+            "id": "tv3puls",
+            "icon": "img/tv3puls.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "God underholdning, inspirerende livsstilspro-grammer, populære film og prisbelønnede serier. En kanal for både mænd og kvinder, der sætter pris på solidt indhold."
+        },
+        {
+            "navn": "TV3 SPORT 1",
+            "id": "tv3sport1",
+            "icon": "img/tv3sport1.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV3 SPORT 1 HD er en premium sportskanal, der blandt nøglerettighederne har Champions League-fodbold, Superliga-fodbold, NFL, Wimbledon-tennis, ishockey-VM, dansk ishockey, NHL og håndbold. "
+        },
+        {
+            "navn": "TV3 SPORT 2",
+            "id": "tv3sport2",
+            "icon": "img/tv3sport2.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "TV3 SPORT 2 er en premium sportskanal, der blandt nøglerettighederne har WTA-tennis med bl.a. den danske stjerne Caroline Wozniacki, international boksning, de største kampe i engelske Premier League, dansk håndbold, dansk pokalfodbold, Betsafeliga, speedway og andet motorsport."
+        },
+        {
+            "navn": "Kanal 4",
+            "id": "kanal4",
+            "icon": "img/kanal4.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "Kanal 4 sender en god blanding af dansk producerede og indkøbte programmer inden for underholdning og fordybelse. Her kan man blandt andet følge med i talkshows, madprogrammer, serier og meget andet. Mange programmer er henvendt til de kvindelige seere som De unge mødre, Singleliv og Topmodel. Kanalen er først med programmet "
+        },
+        {
+            "navn": "Kanal 5",
+            "id": "kanal5",
+            "icon": "img/kanal5.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "Kanal 5 viser film, serier, kriminalstof og reality-underholdning. Kanalens motto er ”5-stjernet underholdning” med egen-produktioner som Big Brother, 4 Stjerners Middag og Kongerne af Rømø. Kanalen henvender sig til den brede seerskare."
+        },
+        {
+            "navn": "6'eren",
+            "id": "6eren",
+            "icon": "img/6eren.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "På 6’eren vil du kunne se et miks af program-mer, der handler om biler, sport, comedy, serier og film. For fodboldfans er der direkte kampe fra engelske Premier League og spanske La Liga. Og en klassiker er America´s funniest home videos. "
+        },
+        {
+            "navn": "CANAL8 Sport",
+            "id": "canal8sport",
+            "icon": "img/canal8sport.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "CANAL8 Sport er spækket med indhold som ATP tennis, motorsport, Ultimate Fighting og ikke mindst masser af fodbold fra f.eks. den italienske Serie A, Superligaen, Europa League og den hollandske Æresdivision."
+        },
+        {
+            "navn": "Canal 9",
+            "id": "canal9",
+            "icon": "img/canal9.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "På Canal 9 HD kan du se sport, dokumentarserier og serier i den. Inden for fodbold kan du bl.a. følge den danske Superliga, den spanske La Liga, italienske Serie A og topkampene i Europa League. I nattefladen er der kampsport med stævner fra Ultimate Fighting. Bliv underholdt hele ugen med vilde, sjove, spændende og intense film samt serier. Du kan også følge politiet på patrulje til lands, til vands og i luften i en række dokumentarserier fra USA, Australien, New Zealand og England."
+        },
+        {
+            "navn": "TLC",
+            "id": "tlc",
+            "icon": "img/tlc.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "TLC er en underholdningskanal med plads til fordybelse, gråd og grin. En blanding af krimigåder, kagekunst og bryllupsprogrammer giver seeren stof til eftertanke med nytænkende og moderne tv. F.eks. Masterchef-programmer, Food Hospital og Here Come Honey Boo Boo er blandt de populæreste programmer."
+        },
+        {
+            "navn": "Kanal Sport HD",
+            "id": "kanalsport",
+            "icon": "img/kanalsport.png",
+            "hd": "true",
+            "sprog": "dansk",
+            "beskrivelse": "Kanal Sport HD er en dansk kanal, der sender sport og bredde-idræts. Der er fokus på nyhedsdækning fra den danske sportsverden og direkte transmissioner fra en række sportsgrene fra liga- til divisionsniveau. Magasinprogrammer går bag om sportsgrene og udøvere. Du får spilfiduser, betting-tips og Tips om Tips."
+        },
+        {
+            "navn": "Discovery Channel",
+            "id": "discovery",
+            "icon": "img/discovery.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "På Discovery Channel kan du opleve prisvindende dokumentarer, fascinerende serier og intelligent underholdning fra hele verden. Her er programmer om imponerende ingeniørkunst, vilde eksperimenter og trekking i vildmarken. Mød videnskabsmænd, guldgravere og krabbefiskere!"
+        },
+        {
+            "navn": "BBC Entertainment",
+            "id": "bbcentertainment",
+            "icon": "img/bbcentertainment.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "BBC Entertainments programflade består af drama-, komedie- og krimiserier samt quiz- og underholdningsprogrammer. Du kan bl.a. se Fint skal det være, 'Allo, 'Allo, Eastenders, QI og The Graham Norton Show. Alt er tekstet på dansk."
+        },
+        {
+            "navn": "BBC World News",
+            "id": "bbc",
+            "icon": "img/bbc.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Flere hundrede korrespondenter verden over er fundamentet for BCC Worlds 24-timers nyheds-kanal. En seriøs nyhedsdækning, kombineret med dybdegående reportager, interview, magasinprogrammer og programmer inden for fritid og rejser."
+        },
+        {
+            "navn": "BBC Lifestyle",
+            "id": "bbcl",
+            "icon": "img/bbclifestyle.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "BBC Lifestyle sender programmer om mad, mode, skønhed, bolig og design, personlig udvikling og sundhed. Blandt de mest populære er Arvestykker, En god handel, Hjem under hammeren, Det nye skandinaviske køkken og Til middag hos. Alle udsendelser er tekstet på dansk."
+        },
+        {
+            "navn": "MTV",
+            "id": "mtv",
+            "icon": "img/mtv.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "MTV HD er en tv-kanal for unge. Her er nytænkende og provokerende underholdning i form af fantastiske shows med intriger, satire, halsbrækkende stunts, glimmer og glamour m.m. kombineret med den nyeste musik og de fedeste musikvideoer. Følg bl.a. Ridiculousness og Teen Mom."
+        },
+        {
+            "navn": "VH1",
+            "id": "vh1",
+            "icon": "img/vh1.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Vh1 er en musikkanal for de 25-50-årige med de største hits fra før og nu. Vh1 sender musikvideoer, dokumentarer og koncerterne fra 80'erne, 90'erne og frem til i dag - hele døgnet rundt."
+        },
+        {
+            "navn": "Eurosport",
+            "id": "eurosport",
+            "icon": "img/eurosport.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Eurosport sender over 3000 timers live sport hvert år. VM, EM, World Cup, Grand Slam eller Grand Tour – Eurosport er på plads for at give seerne den bedst mulige sportsoplevelse fra over 100 forskellige sportsgrene. Eurosport sender blandt andet cykling, fodbold, motorsport, atletik, tennis og vintersport."
+        },
+        {
+            "navn": "Eurosport 2",
+            "id": "eurosport2",
+            "icon": "img/eurosport2.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Eurosport 2 sender over 2000 timers live sport hvert år. Kanalen er i gang døgnet rundt og kommenteres af dygtige og engagerede kommentatorer. Eurosport 2 sender blandt andet Bundesligaen, cykling, holdsportsgrene som basket og håndbold, motorsport, tennis, snooker og meget andet."
+        },
+        {
+            "navn": "CNN",
+            "id": "cnn",
+            "icon": "img/cnn.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "CNN International er en amerikansk nyhedskanal, der ud over nyheder og nyhedsmagasiner sender interview, dokumentarprogrammer, sport og underholdning."
+        },
+        {
+            "navn": "National Geographic",
+            "id": "ng",
+            "icon": "img/ng.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "National Geographic Channel i suveræn billed-kvalitet og widescreen-format. Kanalen tilbyder de bedste programmer fra medievirksomheden med banebrydende og imponerende dokumentarfilm inden for mennesker og kultur, historie, videnskab og teknologi, natur, rejser og eventyr. Underholdning for hele familien på et hidtil ukendt højt niveau."
+        },
+        {
+            "navn": "TCM",
+            "id": "tcm",
+            "icon": "img/tcm.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Filmkanal med gode, klassiske film. Kanalens flade henvender sig til seere på 50+. TCM er en kanal for filmelskere, der her kan nyde alt fra 40'ernes store biografhit til moderne klassikere."
+        },
+        {
+            "navn": "TV4 HD",
+            "id": "tv4",
+            "icon": "img/tv4.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "TV4 er en populær svensk tv-kanal, der nu også kan ses i knivskarp HD. Kanalen er gået fra at være en lille opkomling til førstepladsen som Sveriges største. Underholdningskanalen sender hovedsageligt amerikanske serier, film, sport samt nyheder. For at se TV4, skal dit tv have en indbygget MPEG 4 tuner, eller være tilsluttet en YouSee boks eller lignende udstyr."
+        },
+        {
+            "navn": "NRK1 HD",
+            "id": "nrk1",
+            "icon": "img/nrk1.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "NRK1 er en norsk public service-kanal med en bred programflade: nyhedsdækning, regionale indslag, samfundsrelaterede programmer, underholdning, magasiner, sport, serier og film. nek1Udvalgte programmer sendes med danske undertekster."
+        },
+        {
+            "navn": "Cartoon Network",
+            "id": "cn",
+            "icon": "img/cartoonnetwork.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Cartoon Network er en dansk børnekanal, hvis mission er at underholde børn og give dem et sjovt pusterum fra en travl hverdag. Cartoon Network har verdens største tegnefilmsbibliotek og viser også tegnefilm og spillefilm i fuld længde. Desuden engagerer kanalen børnene gennem kreative konkurrencer og aktiviteter. Cartoon sender med dansk tale. "
+        },
+        {
+            "navn": "Disney Channel",
+            "id": "disneychannel",
+            "icon": "img/disneychannel.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Disney Channel tilbyder underholdning for hele familien og her finder man det bedste fra Disneys magiske verden. Kanalen viser en blanding af klassiske og nye film og populære serier såsom Phineas og Ferb, Held og lykke, Charlie!, Shake It Up og A.N.T.Disney Channel er en reklamefri kanal og alle programmer er enten med danske stemmer eller tekstede på dansk."
+        },
+        {
+            "navn": "Nickelodeon",
+            "id": "nickelodeon",
+            "icon": "img/nickelodeon.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Nickelodeon er verdens største børnekanal og sender i Danmark hver dag fra fra 5.00 – 21.00. Nickelodeon viser et bredt udbud af de bedste tegneserier og serier. For de helt små er der indlæringsprogrammer, og for de større børn er der sjove, skægge og spændende animerede serier, dramaer og komedier. Nickelodeon er hjemsted for bl.a. SvampeBob Firkant, Dora Udforskeren, Pingvinerne fra Madagascar, iCarly, Postmand Per og Koslænget. Alle udsendelser er på dansk."
+        },
+        {
+            "navn": "Animal Planet",
+            "id": "ap",
+            "icon": "img/animalplanet.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "Animal Planet er verdens eneste tv-kanal, hvor du har mulighed for at fordybe dig følelsesmæssigt i stærke programmer dedikeret til dyr – fra dyrelivet i naturen til kæledyrene i hjemmet. Animal Planet forbinder mennesker og dyr med berigende indhold og tilbyder dyreelskere adgang til underholdning, information og berigelse."
+        },
+        {
+            "navn": "ZDF",
+            "id": "zdf",
+            "icon": "img/zdf.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "ZDF er en af Tysklands to landsdækkende public service-kanaler. Som ARD har kanalen en bred programflade med nyhedsdækning, samfundsrelaterede programmer, underholdning med shows, magasiner, sport, serier og film. Udvalgte programmer sendes med danske undertekster."
+        },
+        {
+            "navn": "RTL",
+            "id": "rtl",
+            "icon": "img/rtl.png",
+            "hd": "true",
+            "sprog": "udenlandsk",
+            "beskrivelse": "RTL HD er en tysk kanal, der byder på film, underholdende serier, shows og quizzer. Kanalen sender døgnet rundt.Du kan se RTL HD i visse områder, hvis du har tv med indbygget DVB-C modtager eller en digital boks fra YouSee. I Kanaloversigter kan du se, om RTL findes i dit område."
+        }
+  ]
+}
